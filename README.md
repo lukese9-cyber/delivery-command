@@ -1,5 +1,10 @@
 # Delivery Command
 
+## Canonical operating link
+**Use this one link:** https://delivery-command-luke-jefferies.vercel.app
+
+This is the single operating URL for the system. GitHub is the controlled source; other preview/share/deployment URLs are implementation detail and should not be used as the working bookmark.
+
 Role-specific project delivery operating system for Luke Jefferies' application to **Exchange for Change — Senior Project Manager, Logistics & Processing Delivery**.
 
 ## Design basis
